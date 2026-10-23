@@ -1,0 +1,14 @@
+/Users/pato/Desktop/Prueba/E2/bin/Debug/net10.0/E2
+/Users/pato/Desktop/Prueba/E2/bin/Debug/net10.0/E2.deps.json
+/Users/pato/Desktop/Prueba/E2/bin/Debug/net10.0/E2.runtimeconfig.json
+/Users/pato/Desktop/Prueba/E2/bin/Debug/net10.0/E2.dll
+/Users/pato/Desktop/Prueba/E2/bin/Debug/net10.0/E2.pdb
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.AssemblyInfoInputs.cache
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.AssemblyInfo.cs
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.csproj.CoreCompileInputs.cache
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.dll
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/refint/E2.dll
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.pdb
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/E2.genruntimeconfig.cache
+/Users/pato/Desktop/Prueba/E2/obj/Debug/net10.0/ref/E2.dll
